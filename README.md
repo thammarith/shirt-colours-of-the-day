@@ -1,5 +1,7 @@
 # สีเสื้อวันนี้: Shirt Colours of the Day (Thai Language)
 
+![Hover state](images/hover-state.png)
+
 คุณเคยประสบปัญหาใส่สีเสื้อไม่ตรงกับตารางสีเสื้อหรือไม่? คุณเคยใส่สีเสื้อกาลกิณีในวันศุกร์ตอนบ่ายที่คุณต้อง deploy หรือเปล่า?
 
 ปัญหานี้จะหมดไป เพียงคุณลงส่วนเสริมนี้!
@@ -15,3 +17,7 @@
 ## ติดต่อ
 
 [@thammarith](https://twitter.com/thammarith) บนทวิตเตอร์
+
+## Acknowledgement
+
+- Icon image from [Wikimedia Commons by Shirtexpert](https://commons.wikimedia.org/wiki/File:Shirtexpert.png) used under [the Creative Commons Attribution-Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0)

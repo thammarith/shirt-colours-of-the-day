@@ -1,6 +1,7 @@
 {
     "name": "shirt-colours-of-the-day",
 	"publisher": "thammarith",
+	"icon": "images/icon.png",
     "author": {
         "name": "Thammarith",
         "url": "https://twitter.com/Thammarith"
@@ -10,7 +11,7 @@
 	},
     "displayName": "Shirt Colours of the Day",
     "description": "The definitive shirt colour guide to successful development and deployment",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.66.0"
     },
