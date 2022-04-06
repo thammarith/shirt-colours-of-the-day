@@ -4,6 +4,9 @@
         "name": "Thammarith",
         "url": "https://twitter.com/Thammarith"
     },
+	"repository": {
+		"url": "https://github.com/thammarith/shirt-colours-of-the-day"
+	},
     "displayName": "Shirt Colours of the Day",
     "description": "The definitive shirt colour guide to successful development and deployment",
     "version": "0.0.1",
